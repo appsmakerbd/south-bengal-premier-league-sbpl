@@ -19,11 +19,35 @@ function App() {
   //Add Player Function
   const [filterPlayer,setFilterPlayer]=useState([]);
   const addPlayer=(clickedPlayer)=>{
-    const adding=[...filterPlayer,clickedPlayer];
-    setFilterPlayer(adding);
+    if(preventDuplicate(filterPlayer,clickedPlayer.id)==true){
+      const adding=[...filterPlayer,clickedPlayer];
+      setFilterPlayer(adding);
+    }else{
+      alert('This player already in the list!');
+    }    
   }
-  console.log(filterPlayer);
+  //console.log(filterPlayer);
 
+  
+  //Preventing Duplicate Player adding
+  function preventDuplicate(theArray,newData){
+    if(theArray.length<=0){
+      return true;
+    }else{
+      let result=1;
+      for (let i = 0; i < theArray.length; i++) {
+        const singleData = theArray[i].id;
+        if(singleData==newData){
+          return result=0;
+        }
+      }
+      if(result==1){
+        return true;
+      }else{
+        return false;
+      }
+    }
+  }
 
 
   return (
