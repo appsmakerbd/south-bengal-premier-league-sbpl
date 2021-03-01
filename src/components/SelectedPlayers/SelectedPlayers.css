@@ -1,0 +1,32 @@
+.selected-players{
+    margin-top:40px;
+}
+.selected-players h1,.selected-players h3{
+    margin:0;
+    padding:5px 0
+}
+.selected-players h1{
+    border-bottom:1px dashed tomato;
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+.selected-players ul{
+    list-style: none;
+    margin: 0;
+    padding:0;
+}
+.selected-players ul li{
+    margin: 3px 0;
+    line-height: 20px;
+    background: rgba(0,0,0,0.05);
+    border-radius: 5px;
+    padding: 8px;
+    transition: 500ms;
+    font-size: 14px;
+}
+.selected-players h3{
+    border-top:1px dashed tomato;
+    margin-top: 10px;
+    font-size: 20px;
+}
+

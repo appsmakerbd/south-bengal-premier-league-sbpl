@@ -1,0 +1,23 @@
+.single-player{
+    padding: 10px;
+}
+.single-player .inner-box{
+    padding: 5px;
+}
+.single-player img{
+    width: 100%;;
+}
+
+.single-player .img-box{
+    height: 220px;
+    overflow: hidden;
+}
+
+.single-player h3{
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+.single-player p{
+    margin:0
+}

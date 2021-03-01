@@ -1,0 +1,113 @@
+[{
+    "id": 1,
+    "name": "Shakib Al Hasan",
+    "career": 10,
+    "auction_money": 5500000,
+    "image": "https://i.ibb.co/5sGkdfX/1-2.jpg",
+    "skill": "All-rounder"
+  }, {
+    "id": 2,
+    "name": "Mushfiqur Rahman",
+    "career": 11,
+    "auction_money":4800000,
+    "image": "https://i.ibb.co/Tk49qf9/2.png",
+    "skill": "Batsman"
+  }, {
+    "id": 3,
+    "name": "Liton Das",
+    "career": 8,
+    "auction_money": 2800000,
+    "image": "https://i.ibb.co/0tWxMB6/3.png",
+    "skill": "Batsman"
+  }, {
+    "id": 4,
+    "name": "Mustafizur Rahman",
+    "career": 5,
+    "auction_money": 2500000,
+    "image": "https://i.ibb.co/Wp57QS6/4.png",
+    "skill": "Fast Bowler"
+  }, {
+    "id": 5,
+    "name": "Mahmudullah Riyad",
+    "career": 7,
+    "auction_money": 3200000,
+    "image": "https://i.ibb.co/0j24QKg/5.png",
+    "skill": "Batsman"
+  }, {
+    "id": 6,
+    "name": "Rubel Hossain",
+    "career": 8,
+    "auction_money": 3800000,
+    "image": "https://i.ibb.co/rcgjd1m/6.png",
+    "skill": "Medium Fast Bowler"
+  }, {
+    "id": 7,
+    "name": "Sabbir Rahman",
+    "career": 6,
+    "auction_money": 4200000,
+    "image": "https://i.ibb.co/hmHpkRp/7.png",
+    "skill": "All-rounder"
+  }, {
+    "id": 8,
+    "name": "Tamim Iqbal",
+    "career": 13,
+    "auction_money": 5300000,
+    "image": "https://i.ibb.co/sJQttRf/8.png",
+    "skill": "Batsman"
+  }, {
+    "id": 9,
+    "name": "Mashrafe Mortaza",
+    "career": 16,
+    "auction_money": 4400000,
+    "image": "https://i.ibb.co/gy5C14X/9.png",
+    "skill": "Bowlar"
+  }, {
+    "id": 10,
+    "name": "Chris Gayle",
+    "career": 18,
+    "auction_money": 6500000,
+    "image": "https://i.ibb.co/FmWGmpN/10.png",
+    "skill": "Batsman"
+  }, {
+    "id": 11,
+    "name": "Mitchell Starc",
+    "career": 8,
+    "auction_money": 5900000,
+    "image": "https://i.ibb.co/dtDdVxM/11-1.png",
+    "skill": "Bowler"
+  }, {
+    "id": 12,
+    "name": "Shoib Malik",
+    "career": 14,
+    "auction_money": 3700000,
+    "image": "https://i.ibb.co/nCPY6JV/12-1.png",
+    "skill": "All-rounder"
+  }, {
+    "id": 13,
+    "name": "Martin Guptil",
+    "career": 4,
+    "auction_money": 3400000,
+    "image": "https://i.ibb.co/fS3BNPr/13.png",
+    "skill": "Batsman"
+  }, {
+    "id": 14,
+    "name": "Aaaron Finch",
+    "career": 14,
+    "auction_money": 600000,
+    "image": "https://i.ibb.co/7G2Yq7f/14.png",
+    "skill": "Batsman"
+  }, {
+    "id": 15,
+    "name": "Marcus Stoinis",
+    "career": 4,
+    "auction_money": 2800000,
+    "image": "https://i.ibb.co/z67ZJPb/15.png",
+    "skill": "All-rounder"
+  }, {
+    "id": 16,
+    "name": "Mehedi Hasan",
+    "career": 6,
+    "auction_money":2600000 ,
+    "image": "https://i.ibb.co/xXN91T5/16.png",
+    "skill": "Batsman"
+  }]
